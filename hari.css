@@ -1,0 +1,25 @@
+.drum {
+    padding: 20px 30px;
+    font-size: 20px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #04aa6d;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    color: rgb(238, 235, 235);
+    font-weight: bolder;
+  }
+  
+  .drum:hover {
+    background-color: #3e8e41;
+  }
+  
+  .drum:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  
